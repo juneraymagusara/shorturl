@@ -1,0 +1,24 @@
+{
+  "name": "shorten_url",
+  "version": "1.0.0",
+  "private": true,
+  "description": "shorten_url",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/joy": "^5.0.0-beta.32",
+    "gatsby": "^5.13.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
